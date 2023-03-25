@@ -1,0 +1,31 @@
+Css Selectors - Revision
+Element selector 
+        Element{
+             property:value;
+            }
+
+Id selector 
+        Element#id{
+             property:value;
+            }
+Psudo Class Selector 
+        Element:hover{
+             property:value;
+            }
+class Selector
+        element.classname{
+            property:value;
+        }
+
+you can target css with a common class e.g x in this tutorial.
+it will help in code management(if need to change), code size and optimization
+studyng box corners
+
+1.	top left
+2.	top right
+3.	bottom left
+4.	bottom right
+
+shift+alt+down arrow to copy last code line
+ transform: rotate(45deg); can be used to transform
+if a property is not applying write"!important"

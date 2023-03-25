@@ -1,0 +1,55 @@
+.first{
+  color: green;
+  border-radius: 300px;
+  
+
+}
+.first:hover{
+    background-color: blue;
+    color: white;
+    transition: 1.5s;
+    
+}
+div.nd{
+    color: red;
+    font-weight: bold;
+    font-size: 2rem;
+    cursor: pointer;
+    border-top-right-radius: 300px;
+    border-bottom-left-radius: 300px;
+   
+    
+  
+  }
+  div.nd:hover{
+    background-color: blue;
+    transform: rotate(70deg); 
+   
+  }
+  div.x{
+    display: inline-block;
+    align-items: center;
+    align-content: space-between;
+    width: 300px;
+     height: 300px;
+    background-color: black;
+    text-align: center;
+    line-height: 300px;
+    
+  }
+div.eye{
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+    background-color: rgba(0,0,0,.5);
+    border-radius: 100% 0;
+    transform: rotate(45deg); 
+   
+}
+div.eye:hover{
+    border-top-left-radius: 150px;
+    border-bottom-right-radius: 300px;
+    background-color: green;
+    cursor: pointer;
+    transform: rotate(70deg); 
+}
